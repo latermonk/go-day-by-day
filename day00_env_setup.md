@@ -14,10 +14,14 @@ https://golang.org/dl/
 
 ###   配置go环境变量 
 
+
+```
 export PATH="$PATH:/usr/local/go/bin"
 
 
 export GOPATH="$PATH:/home/www/importgp"
+```
+
 
 
 source the configuration file
@@ -26,6 +30,8 @@ source the configuration file
 
 ##  Hello-world 测试
 
+
+```
 package main
 
 import "fmt"
@@ -33,6 +39,8 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, 世界")
 }
+```
+
 
 
 测试成功说明环境搭建成功！！！ 
