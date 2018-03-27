@@ -1,13 +1,21 @@
-内网go网站：   https://go-zh.org/doc/
+
+
+官网：    
+https://go-zh.org/doc/
+
+
+交互教程：   
+https://tour.go-zh.org    
+
 
 
 Hello.go解析：
 
-package main
+package main    
 
-import "fmt"
+import "fmt"    
 
-func main() {
-	fmt.Println("Hello, world !")
-}
+func main() {    
+	fmt.Println("Hello, world !")     
+}   
 
